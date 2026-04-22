@@ -2,20 +2,18 @@
 <img src="https://logodownload.org/wp-content/uploads/2022/05/brazil-flag-bandeira-1.png" alt="banner" width="100">
 
 
-<h1 align="center">olá 👋, eu sou Ray Cavalcante Dos Santos</h1>
-<h3 align="center">Aprendendo a usar as tecnologias</h3>
+<h1 align="center">Olá 👋, eu me chamo Ray Cavalcante Dos Santos</h1>
+<h3 align="center">Trilhando o concheciemto sobre tecnologia</h3>
 
-- 🔭 No momento estou conhecendo estou conhecendo o **Python**
+- 🔭 No momento estou conhecendo estou conhecendo a linguagem java **JAVA**
 
-- 🌱 Atualmente estou me buscando aperfeiçoar em **Back-end com Pyhton**
+- 🌱 Atualmente estou me buscando aperfeiçoar em **Back-end com JAVA**
 
 - 📫 contato: **2023raysantos1@gmail.com**
 
-- ⚡ Fato engraçado sobre mim: **Demoro pra gravar nomes**
-
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://instagram.com/mk.santtos19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mk.santtos19" height="30" width="40" /></a>
+<a href="https://instagram.com/ray_santtoj20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ray_santosj20" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
